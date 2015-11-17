@@ -1,3 +1,4 @@
 1.I start to test git.
 2.I tested.
+3.I willtest merge.
 4.hello
