@@ -1,4 +1,5 @@
 1.I start to test git.
+master.
 2.I tested.
 3.I will test merge.
 4.hello world.
