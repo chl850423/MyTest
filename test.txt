@@ -1,6 +1,4 @@
 1.I start to test git.
-master.
 2.I tested.
 3.I will test merge.
-testone
-4.hello world.
+4.hello testone.
