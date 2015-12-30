@@ -3,5 +3,4 @@
 3.I will test merge.
 4.hello testone.
 5.add testone.
-6.add new_branch.
-7.add test_branch.
+6.merge test_branch.
